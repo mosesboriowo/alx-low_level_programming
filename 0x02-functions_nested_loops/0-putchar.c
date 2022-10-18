@@ -1,8 +1,8 @@
 #include "main.h"
+
 /**
  * main - print _putchar
- * is written by Mohzis
- * Returns 0
+ * written by mohzis
  */
 
 int main(void)
@@ -16,4 +16,6 @@ _putchar('h');
 _putchar('a');
 _putchar('r');
 _putchar('\n');
+
 return (0);
+}
